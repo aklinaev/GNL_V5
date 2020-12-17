@@ -1,0 +1,3 @@
+/Users/apenrose/get_next_line_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/apenrose/get_next_line_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/apenrose/get_next_line_5/cmake-build-debug/CMakeFiles/get_next_line_5.dir
